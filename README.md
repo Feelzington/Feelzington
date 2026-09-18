@@ -17,7 +17,8 @@ Associate Degree in Systems Analysis and Development.
 <br>
 
 
-> <i>"No more; where ignorance is bliss, 'Tis folly to be wise."</i><br> <i>— Thomas Gray</i>
+> "No more; where ignorance is bliss, 'Tis folly to be wise."<br>
+> —Thomas Gray
 
 </div>
 
@@ -36,9 +37,15 @@ defensive security, with the goal of specializing in Network
 Engineering and eventually Blue Team / SOC work.
 
 
+<br>
+
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,kotlin,git,docker,vim&theme=dark" alt="Tech Stack Icons" />
 </div>
+
+
+<br>
 
 
 ## Currently Learning
@@ -48,6 +55,9 @@ Engineering and eventually Blue Team / SOC work.
 - Linux Administration
 - Network Security
 - Defensive Security / Blue Team
+
+
+<br>
 
 
 ## Professional Interests
@@ -61,6 +71,9 @@ Engineering and eventually Blue Team / SOC work.
 - Low-level & Systems Programming
 
 
+<br>
+
+
 ## Personal Interests
 
 - Video games, especially RPGs, survival games, and sandbox games
@@ -72,6 +85,9 @@ Engineering and eventually Blue Team / SOC work.
 
 
 <br>
+<br>
+<br>
+
 
 <!-- Badges -->
 <div align="center">
@@ -81,6 +97,9 @@ Engineering and eventually Blue Team / SOC work.
 [![Hacker News](https://img.shields.io/badge/Hacker%20News-Feelzington-ff6600?style=flat&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=Feelzington)
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-Feelz-E2B714?style=flat&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/Feelz)
 [![Keybase](https://img.shields.io/badge/Keybase-Feelzington-33A0FF?style=flat&logo=keybase&logoColor=white)](https://keybase.io/feelzington)
+
+
+<br>
 
 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
