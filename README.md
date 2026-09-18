@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hello!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hello;" alt="Typing SVG" />
   
 <code>LINUX · NETWORKS · SECURITY · SYSTEMS</code>
 </div>
